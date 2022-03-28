@@ -25,14 +25,14 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  Red  | Green  | 
+| Green | Yellow | 
+| Yellow|   Red  | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program has a current color then based on the color it changes if current color is green next color is yellow and so on so forth.</td>
   </tr>
 </table>
 
