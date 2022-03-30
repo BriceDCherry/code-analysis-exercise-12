@@ -25,9 +25,9 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|  Red  | Green  | 
-| Green | Yellow | 
-| Yellow|   Red  | 
+|  "red"  | "green"  | 
+| "green" | "yellow" | 
+| "yellow"|   "red"  | 
 
 <table>
   <tr>
